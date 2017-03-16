@@ -1,0 +1,486 @@
+{ "id" : "http://www.programmableweb.com/api/informz" , "title" : "Informz" , "summary" : "Email marketing service" , "rating" : "5.0" , "name" : "Informz" , "label" : "Informz" , "author" : "" , "description" : "Informz offers email marketing solutions through their SaaS platform. They offer a range of services including customizable HTML templates and forms, A/B testing, social sharing tools, email targeting, and real-time reporting.  The Informz API enables developers to set up two-way AMS and CRM database integration with the Informz email marketing platform. After integrating their services, clients can take advantage of automated data retrieval methods, automatic synchronization, and more robust data gathering and manipulation techniques." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.informz.com/email-marketing-solutions/email-marketing-software/email-saas-web-api/" , "downloadUrl" : "" , "dateModified" : "2012-02-22T11:12:31Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/informz/comments" , "Tags" : [ "advertising" , "email" , "marketing"] , "category" : "Advertising" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "advertising" , "email" , "marketing"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://informz.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = deadpool
+tag = geolocation
+tag = internet
+tag = IP
+tag = whois
+example = deadpool
+example = geolocation
+example = internet
+example = IP
+example = whois
+{ "id" : "http://www.programmableweb.com/api/infosniper.net" , "title" : "Infosniper.net" , "summary" : "Internet IP geolocation service" , "rating" : "5.0" , "name" : "Infosniper.net" , "label" : "Infosniper.net" , "author" : "" , "description" : "InfoSniper is a service to geolocate IP addresses and domain names and providing additional information like provider, country, city and whois information. The RESTful API allows 75 queries per day and provides responses in XML format." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://infosniper.net/geolocate-ip-addresses-urlparameter.php?lang=1" , "downloadUrl" : "" , "dateModified" : "2010-02-03T01:46:17Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infosniper.net/comments" , "Tags" : [ "deadpool" , "geolocation" , "internet" , "IP" , "whois"] , "category" : "Internet" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "deadpool" , "geolocation" , "internet" , "IP" , "whois"] , "clientInstall" : "No" , "authentication" : "" , "ssl" : "" , "readonly" : "Yes" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "No" , "commercial" : "" , "provider" : "http://www.infosniper.net" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "75 queries per ip-address and day are free." , "terms" : "75 queries per ip-address and day are free." , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = Data
+tag = games
+tag = scores
+tag = sports
+tag = statistics
+example = Data
+example = games
+example = scores
+example = sports
+example = statistics
+{ "id" : "http://www.programmableweb.com/api/infostradasports" , "title" : "Infostradasports" , "summary" : "Sports information service" , "rating" : "5.0" , "name" : "Infostradasports" , "label" : "Infostradasports" , "author" : "" , "description" : "Infostradasports is an online service that provides a variety of data and information on various sports. Information includes sports publishing rights, distributing sports content, and general sports information, including information about the 2012 summer Olympics.   The Infostradasports API allows developers to access and integrate the functionality and data of Infostradasports with other applications and to create new applications. The data can be retrieved in various languages. Some example API methods include retrieving sports lists, retrieving match and game information, and retrieving sports scores. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://demo.api.infostradasports.com/asp/documentation.asp" , "downloadUrl" : "" , "dateModified" : "2012-07-02T10:56:11Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infostradasports/comments" , "Tags" : [ "Data" , "games" , "scores" , "sports" , "statistics"] , "category" : "Sports" , "protocols" : "REST, SOAP" , "serviceEndpoint" : "http://demo.api.infostradasports.com/svc/ or http://demo.api.infostradasports.com/svc/soap" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON" , "apigroups" : "" , "example" : [ "Data" , "games" , "scores" , "sports" , "statistics"] , "clientInstall" : "No" , "authentication" : "None" , "ssl" : "No" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://getsatisfaction.com/infostradasports/topics/" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://infostradasports.com/asp/home/infostra" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "http://infostradasports.com/asp/infostradasports.asp?page=about_terms" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = currency
+tag = exchange
+tag = financial
+tag = romania
+tag = tools
+example = currency
+example = exchange
+example = financial
+example = romania
+example = tools
+{ "id" : "http://www.programmableweb.com/api/infovalutar-rate" , "title" : "InfoValutar Rate" , "summary" : "Romanian currency exchange rate service" , "rating" : "5.0" , "name" : "InfoValutar Rate" , "label" : "InfoValutar Rate" , "author" : "" , "description" : "InfoValutar provides information on the exchange rates between foreign currencies and the Romanian leu. This information is supplied by the Banca Nationala a Romaniei (trans. National Bank of Romania).  This information is available programmatically using the Curs (trans. Rate) API. This service is accessible using SOAP calls issued in XML format. The InfoValutar website is provided exclusively in Romanian." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.infovalutar.ro/bnr" , "downloadUrl" : "" , "dateModified" : "2012-10-17T11:12:51Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infovalutar-rate/comments" , "Tags" : [ "currency" , "exchange" , "financial" , "romania" , "tools"] , "category" : "Financial" , "protocols" : "SOAP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "http://www.infovalutar.ro/curs.asmx?wsdl" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "currency" , "exchange" , "financial" , "romania" , "tools"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.infovalutar.ro/bnr" , "managedBy" : "Infovalutar" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = photo
+tag = storage
+tag = video
+example = photo
+example = storage
+example = video
+{ "id" : "http://www.programmableweb.com/api/infradox" , "title" : "Infradox" , "summary" : "Photo and Video Storage Service" , "rating" : "5.0" , "name" : "Infradox" , "label" : "Infradox" , "author" : "" , "description" : "Infradox is a high volume photo and video archive service that provides secure storage and delivery to end users. Infradox offers a Partner API and a Backoffice API. The Partner API allows user parters to set up a live connection with stored media the user&amp;#039;s files. The Backoffice API allows users to retrieve data from a users own live database. Users can also retrieve data for users, orders, suppliers, galleries, live content, deleted content, and other information. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.infradox.com/infradox-partner-api/" , "downloadUrl" : "" , "dateModified" : "2013-01-31T03:17:30Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infradox/comments" , "Tags" : [ "photo" , "storage" , "video"] , "category" : "Storage" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "photo" , "storage" , "video"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "https://xpertise.zendesk.com/forums/20512922-announcements" , "support" : "xpertise.zendesk.com" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.infradox.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = cloud
+tag = delivery
+tag = mail
+tag = office
+tag = printing
+example = cloud
+example = delivery
+example = mail
+example = office
+example = printing
+{ "id" : "http://www.programmableweb.com/api/infraprint" , "title" : "Infraprint" , "summary" : "Cloud printing and mailing service" , "rating" : "5.0" , "name" : "Infraprint" , "label" : "Infraprint" , "author" : "" , "description" : "Infraprint is a cloud printing and mailing service allowing users to upload files to be printed and mailed. Applications include automating bills and invoices, sending thank you notes and welcome letters, direct mail marketing, and on-demand printing. Infraprint is accessible via a REST API. Third party applications simply send Infraprint an object and an address over HTTP POST. The API supports options such as specification of print settings and delivery options." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://www.lob.com/docs" , "downloadUrl" : "" , "dateModified" : "2013-06-28T12:09:17Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infraprint/comments" , "Tags" : [ "cloud" , "delivery" , "mail" , "office" , "printing"] , "category" : "Office" , "protocols" : "REST" , "serviceEndpoint" : "https://api.infraprint.com/v1/" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "cloud" , "delivery" , "mail" , "office" , "printing"] , "clientInstall" : "" , "authentication" : "API Key" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "https://www.infraprint.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = analytics
+tag = internet
+tag = tracking
+tag = visitor
+tag = website
+example = analytics
+example = internet
+example = tracking
+example = visitor
+example = website
+{ "id" : "http://www.programmableweb.com/api/infunl-web-analytics" , "title" : "Infunl Web Analytics" , "summary" : "Web analytics and tracking service" , "rating" : "4.7" , "name" : "Infunl Web Analytics" , "label" : "Infunl Web Analytics" , "author" : "" , "description" : "Infunl is a web analytics service and tracking service that records events from the browser and represents them internally as a sequence for each unique visitor. Collected events are immediately available for analysis with our query language. The API allows for these queries to be executed programmatically. Queries can include metrics such as unique visitors, visit counts, page view counts, event data per visit and more. The API uses HTTP calls and responses can be formatted in XML, JSON, JSONP and CSV." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://infunl.com/" , "downloadUrl" : "" , "dateModified" : "2012-02-10T12:20:00Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infunl-web-analytics/comments" , "Tags" : [ "analytics" , "internet" , "tracking" , "visitor" , "website"] , "category" : "Internet" , "protocols" : "HTTP" , "serviceEndpoint" : "https://api.infunl.com/" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON, JSONP, CSV" , "apigroups" : "" , "example" : [ "analytics" , "internet" , "tracking" , "visitor" , "website"] , "clientInstall" : "" , "authentication" : "API Key, User Password" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "http://support.infunl.com/" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://infunl.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "https://infunl.com/terms" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = enterprise
+tag = marketing
+tag = sales
+tag = sbweb
+example = enterprise
+example = marketing
+example = sales
+example = sbweb
+{ "id" : "http://www.programmableweb.com/api/infusionsoft" , "title" : "Infusionsoft" , "summary" : "The only all-in-one sales and marketing software. Built for small businesses." , "rating" : "3.6" , "name" : "Infusionsoft" , "label" : "Infusionsoft" , "author" : "" , "description" : "Infusionsoft is an online software program that automates marketing, sales, and customer management processes. The Infusionsoft API allows users to integrate existing tools and apps into Infusionsoft using a secure data connection. With it, users can pass data between multiple instances of Infusionsoft, query data from an outside database and pass order data into Infusionsoft from another shopping cart. The API uses XML-RPC protocol." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://help.infusionsoft.com/developers" , "downloadUrl" : "" , "dateModified" : "2010-03-10T09:25:36Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/infusionsoft/comments" , "Tags" : [ "enterprise" , "marketing" , "sales" , "sbweb"] , "category" : "Enterprise" , "protocols" : "XML-RPC" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "enterprise" , "marketing" , "sales" , "sbweb"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "PHP" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://developers.infusionsoft.com/" , "accountReq" : "" , "commercial" : "" , "provider" : "" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = analytics
+tag = category
+tag = organization
+tag = recommendations
+tag = sharing
+tag = tagging
+example = analytics
+example = category
+example = organization
+example = recommendations
+example = sharing
+example = tagging
+{ "id" : "http://www.programmableweb.com/api/ingenia" , "title" : "Ingenia" , "summary" : "Text Categorization Service" , "rating" : "5.0" , "name" : "Ingenia" , "label" : "Ingenia" , "author" : "" , "description" : "Ingenia is a tagging and categorization service. Users isolate blocks of text and assign their own tags to them, this provide a sample upon which Ingenia can the begin to apply tags and categories to text in real time. The Ingenia API, which is available in JavaScript and REST, allows users to query for tags and categories as well as view lists of categories and tags that have been assigned. An account is required with service, and SSL and an API are used for authentication. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://www.ingeniapi.com/documentation" , "downloadUrl" : "" , "dateModified" : "2013-11-06T04:44:49Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/ingenia/comments" , "Tags" : [ "analytics" , "category" , "organization" , "recommendations" , "sharing" , "tagging"] , "category" : "Tagging" , "protocols" : "JavaScript, REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "analytics" , "category" , "organization" , "recommendations" , "sharing" , "tagging"] , "clientInstall" : "" , "authentication" : "HTTP Basic Authentication over SSL" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "RUBY" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.ingeniapi.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = advertising
+tag = phone
+tag = telephony
+example = advertising
+example = phone
+example = telephony
+{ "id" : "http://www.programmableweb.com/api/ingenio" , "title" : "Ingenio" , "summary" : "Pay-per-call advertising and outreach service" , "rating" : "5.0" , "name" : "Ingenio" , "label" : "Ingenio" , "author" : "" , "description" : "The service provides phone-based access to expert advice and referral services. It allows those with questions and concerns to contact someone with expertise in the subject matter for information and advice. It also provides an advertising and outreach venue by which service providers can interact with potential customers for their services.  API methods support creation and updating of provider listings, including phone number for access, specialty topics, price per call, etc. Other APIs provide for controlling agency accounts, recorded audio, and tracking of contacts through the system." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://developers.ingenio.com/CommunityServer/files/9/default.aspx" , "downloadUrl" : "" , "dateModified" : "2012-07-17T11:38:21Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/ingenio/comments" , "Tags" : [ "advertising" , "phone" , "telephony"] , "category" : "Advertising" , "protocols" : "SOAP" , "serviceEndpoint" : "http://api.ingenio.com/{trackingID}/GetListings.asmx" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "advertising" , "phone" , "telephony"] , "clientInstall" : "No" , "authentication" : "API Key" , "ssl" : "No" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.ingenio.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = gestures
+tag = messaging
+tag = semantic
+tag = social
+example = gestures
+example = messaging
+example = semantic
+example = social
+{ "id" : "http://www.programmableweb.com/api/ingesture" , "title" : "Ingesture" , "summary" : "Light-weight social messaging service" , "rating" : "5.0" , "name" : "Ingesture" , "label" : "Ingesture" , "author" : "" , "description" : "The concept behind Ingesture is to provide users with a web service that allows sharing of light-weight social messages that generate socially semantic URL&amp;#039;s as shared gestures, which can also contain associated metadata or annotations.  The API is intended for use by third party social networks and blogs. The root of each Ingesture domain displays activity logs for a particual gesture, and also connects to other aggregated web content related to that gesture, such as Youtube videos or Flickr images. Furthermore, metadata including geolocation, contextual url&amp;#039;s, media attachments, QR codes, and tags can be included with each Ingesture object." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://ingesture.com/apidocs/" , "downloadUrl" : "" , "dateModified" : "2012-02-17T12:14:37Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/ingesture/comments" , "Tags" : [ "gestures" , "messaging" , "semantic" , "social"] , "category" : "Social" , "protocols" : "REST" , "serviceEndpoint" : "http://ingesture.com/api/messages/ " , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "gestures" , "messaging" , "semantic" , "social"] , "clientInstall" : "Yes" , "authentication" : "API Key" , "ssl" : "No" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "http://ingesture.com/forum/" , "support" : "" , "accountReq" : "No" , "commercial" : "" , "provider" : "ingesture.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = brazil
+tag = deadpool
+tag = events
+tag = management
+tag = social
+example = brazil
+example = deadpool
+example = events
+example = management
+example = social
+{ "id" : "http://www.programmableweb.com/api/ingresse" , "title" : "Ingresse" , "summary" : "Brazilian event management platform" , "rating" : "5.0" , "name" : "Ingresse" , "label" : "Ingresse" , "author" : "" , "description" : "Ingresse is Brazilian event management platform. It allows event planners and attendees convenient access to ticket sales, as well as event information and communications. Events can range from private barbeques to large outdoor concerts. Event planners create a page with basic descriptions of the party, set ticket types (if required), and establish a payment system. Attendees can simply find the event they want to go to and electronically purchase tickets or get information about it. The Ingresse API exposes the platform&amp;#039;s event updating functionality. It is a RESTful API that returns JSON-formatted data. The site is in Portuguese. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://wiki.ingresse.com.br/?incsub_wiki=wiki-home" , "downloadUrl" : "" , "dateModified" : "2012-07-24T12:51:06Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/ingresse/comments" , "Tags" : [ "brazil" , "deadpool" , "events" , "management" , "social"] , "category" : "Events" , "protocols" : "REST" , "serviceEndpoint" : "https://www.ingresse.com.br/api/" , "version" : "" , "wsdl" : "" , "data Format" : "JSON" , "apigroups" : "" , "example" : [ "brazil" , "deadpool" , "events" , "management" , "social"] , "clientInstall" : "" , "authentication" : "Basic Authentication over SSL, API Token" , "ssl" : "Yes" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://wiki.ingresse.com.br/?incsub_wiki=wiki-home" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "https://www.ingresse.com.br/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = monetization
+tag = retail
+tag = software
+example = monetization
+example = retail
+example = software
+{ "id" : "http://www.programmableweb.com/api/inishtech" , "title" : "Inishtech" , "summary" : "Software monetization service" , "rating" : "5.0" , "name" : "Inishtech" , "label" : "Inishtech" , "author" : "" , "description" : "InishTech, from Software Potential, is a cloud based software monetization service. The service lets users manage and control their software in the marketplace by providing the ability to license, package, protect the code and view usage analytics. A set of APIs is available that allows users to integrate license management and control capabilities with their application. Functionality exposed via the API includes the ability to control and automate  tasks such as example license request, license activation, license query, feature checks, license updates and more. Interested developers should contact the provider for more information." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inishtech.com/index.php/features/" , "downloadUrl" : "" , "dateModified" : "2012-09-25T10:56:57Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inishtech/comments" , "Tags" : [ "monetization" , "retail" , "software"] , "category" : "Retail" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "monetization" , "retail" , "software"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://www.inishtech.com/Support/DevNet.aspx" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.inishtech.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = deadpool
+tag = enterprise
+tag = esignature
+tag = law
+example = deadpool
+example = enterprise
+example = esignature
+example = law
+{ "id" : "http://www.programmableweb.com/api/inkdit" , "title" : "Inkdit" , "summary" : "Electronic signature service" , "rating" : "5.0" , "name" : "Inkdit" , "label" : "Inkdit" , "author" : "" , "description" : "Inkdit is a service that allows users to capture and track acceptance of contracts online. It allows businesses to sign contracts faster and track the contracts that have been signed by past and present employees. The Inkdit API allows for the capture and tracking of acceptance of contracts from within applications. Functionality includes viewing the collection of contracts, descriptions of each contract, defining the connection between contracts and individuals and more. The API uses RESTful calls and responses are formatted in JSON." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://developer.inkdit.com/docs/Home" , "downloadUrl" : "" , "dateModified" : "2012-01-06T11:08:44Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inkdit/comments" , "Tags" : [ "deadpool" , "enterprise" , "esignature" , "law"] , "category" : "Enterprise" , "protocols" : "REST" , "serviceEndpoint" : "https://api.inkdit.com/" , "version" : "" , "wsdl" : "" , "data Format" : "JSON" , "apigroups" : "" , "example" : [ "deadpool" , "enterprise" , "esignature" , "law"] , "clientInstall" : "No" , "authentication" : "API Key, OAuth 2.0" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "Ruby, JavaScript" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "http://developer.inkdit.com/docs/Home" , "support" : "http://developer.inkdit.com/" , "accountReq" : "" , "commercial" : "" , "provider" : "https://inkdit.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "Free for individuals, tiered pricing for businesses coming soon." , "limits" : "" , "terms" : "" , "company" : "https://inkdit.com/c/xf4ec15e33d1880de" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = file-sharing
+tag = merchant
+tag = mobile
+tag = sharing
+tag = social
+tag = storage
+example = file-sharing
+example = merchant
+example = mobile
+example = sharing
+example = social
+example = storage
+{ "id" : "http://www.programmableweb.com/api/inkfilepicker" , "title" : "InkFilePicker" , "summary" : "File Storage Service" , "rating" : "" , "name" : "InkFilePicker" , "label" : "InkFilePicker" , "author" : "" , "description" : "Ink is a file storage service that aims to power the connectivity between different user devices. The InkFilePicker API allows users to make Javascript or REST calls. The REST API returns JSON and allows the users to retrieve a file, write back to a file, store a file, and perform an image conversion. An account is required with service. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://developers.inkfilepicker.com/docs/web/" , "downloadUrl" : "" , "dateModified" : "2013-12-28T08:10:26Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inkfilepicker/comments" , "Tags" : [ "file-sharing" , "merchant" , "mobile" , "sharing" , "social" , "storage"] , "category" : "Storage" , "protocols" : "JavaScript, REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "JSON" , "apigroups" : "" , "example" : [ "file-sharing" , "merchant" , "mobile" , "sharing" , "social" , "storage"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.inkfilepicker.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = finance
+example = finance
+{ "id" : "http://www.programmableweb.com/api/inkling" , "title" : "Inkling" , "summary" : "Prediction market platform" , "rating" : "5.0" , "name" : "Inkling" , "label" : "Inkling" , "author" : "" , "description" : "Our REST API allows you to replicate much of the functionality in our hosted marketplace solution to build custom widgets and stock tickers for your Intranet, create custom reports, add trading capabilities to an existing application, or even develop your own custom marketplace." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://inklingmarkets.com/homes/developers/" , "downloadUrl" : "" , "dateModified" : "2005-06-02T07:00:00Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inkling/comments" , "Tags" : [ "finance"] , "category" : "Financial" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "finance"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "[[http://forum.inklingmarkets.com/forums/5 API Forum]]" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://inklingmarkets.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = taxi
+tag = transportation
+tag = travel
+example = taxi
+example = transportation
+example = travel
+{ "id" : "http://www.programmableweb.com/api/inknowledge-taxi-fare-calculator" , "title" : "InKnowledge Taxi Fare Calculator" , "summary" : "Taxi fare estimation service" , "rating" : "5.0" , "name" : "InKnowledge Taxi Fare Calculator" , "label" : "InKnowledge Taxi Fare Calculator" , "author" : "" , "description" : "The service calculate taxi fares based on starting and ending locations in cities worldwide. Used in the Bing map taxi fare calculator, it provides taxi rates for over 150 cities in more than a dozen countries. In turn, it uses Bing services to determine geocodes for starting and destination addresses and for determining routes for which it provides fare estimates.  API methods support selection of countries and cities and calculation of fares based on either locations or distance and time. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://inknowledge.co.uk/Products/TaxiFareWebServices.aspx" , "downloadUrl" : "" , "dateModified" : "2012-01-05T08:44:58Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inknowledge-taxi-fare-calculator/comments" , "Tags" : [ "taxi" , "transportation" , "travel"] , "category" : "Transportation" , "protocols" : "REST" , "serviceEndpoint" : "http://taxifarecalculator.cloudapp.net/API/" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON, JSONP" , "apigroups" : "" , "example" : [ "taxi" , "transportation" , "travel"] , "clientInstall" : "No" , "authentication" : "API Key" , "ssl" : "No" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://inknowledge.co.uk/Public/TaxiFareCalculator/InKnowledge%20Taxi%20Fare%20Calculator%20REST%20service.pdf" , "accountReq" : "No" , "commercial" : "Yes with service" , "provider" : "http://inknowledge.co.uk/" , "managedBy" : "" , "nonCommercial" : "No" , "dataLicensing" : "" , "fees" : "Free" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = music
+tag = radio
+tag = streaming
+example = music
+example = radio
+example = streaming
+{ "id" : "http://www.programmableweb.com/api/inlight-radio" , "title" : "inLight Radio" , "summary" : "Internet radio player" , "rating" : "5.0" , "name" : "inLight Radio" , "label" : "inLight Radio" , "author" : "" , "description" : "inLight Radio is a free online radio player that streams music from over 22,000 internet radio stations with more being added continuously by users. When available, the inLight Radio player displays the current song&amp;#039;s lyrics and album art. Users can right-click on the album art to purchase the track or album from Amazon, or they can record one or more tracks while they listen.  Developers can access inLight Radio&amp;#039;s stations for use in their own internet radio apps by contacting inLight Radio for API details." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inlight-radio.com/stations/api/" , "downloadUrl" : "" , "dateModified" : "2013-05-21T05:20:43Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inlight-radio/comments" , "Tags" : [ "music" , "radio" , "streaming"] , "category" : "Music" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON" , "apigroups" : "" , "example" : [ "music" , "radio" , "streaming"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.inlight-radio.com/" , "managedBy" : "inLight Software Solutions" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = advertising
+tag = mobile
+tag = telephony
+example = advertising
+example = mobile
+example = telephony
+{ "id" : "http://www.programmableweb.com/api/inmobi" , "title" : "InMobi" , "summary" : "Mobile advertising network" , "rating" : "5.0" , "name" : "InMobi" , "label" : "InMobi" , "author" : "" , "description" : "InMobi is the world&amp;#039;s largest independent mobile advertising network. Publishers use the network to monetize their inventory while advertisers use it to reach their audience. The InMobi API allows developers to insert their ads in J2ME, PSP, or any other platform. With the API users can manage multiple platforms. The API can also be used to integrate mobile websites, iOS &amp; Android apps and other mobile applications. It uses HTTP calls and responses are formatted in XML." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inmobi.com/monetize/" , "downloadUrl" : "" , "dateModified" : "2012-02-16T11:52:49Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inmobi/comments" , "Tags" : [ "advertising" , "mobile" , "telephony"] , "category" : "Advertising" , "protocols" : "HTTP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "advertising" , "mobile" , "telephony"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.inmobi.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = advertising
+tag = mobile
+tag = telephony
+example = advertising
+example = mobile
+example = telephony
+{ "id" : "http://www.programmableweb.com/api/inneractive" , "title" : "inneractive" , "summary" : "Mobile advertising mediation service" , "rating" : "5.0" , "name" : "inneractive" , "label" : "inneractive" , "author" : "" , "description" : "Inneractive is a mobile ad mediation provider with over 100 ad networks and local agencies available at the click of a button. Inneractive helps developers monetize their apps by giving them tools that let them serve targeted ads to their users. The company offers SDKs for Android, J2ME, Symbian &amp; Qt. For other platforms, developers can use an HTTP based API to gain access to multiple ad networks. Documentation for the API is not publicly available." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://inneractive.jira.com/wiki/display/DevWiki/Reporting+and+Publishers+APIs" , "downloadUrl" : "" , "dateModified" : "2012-02-17T12:02:51Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inneractive/comments" , "Tags" : [ "advertising" , "mobile" , "telephony"] , "category" : "Advertising" , "protocols" : "HTTP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "advertising" , "mobile" , "telephony"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://inner-active.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = deadpool
+tag = weather
+example = deadpool
+example = weather
+{ "id" : "http://www.programmableweb.com/api/innergears-weather-by-city" , "title" : "InnerGears Weather by City" , "summary" : "US Weather forecasts by city" , "rating" : "2.7" , "name" : "InnerGears Weather by City" , "label" : "InnerGears Weather by City" , "author" : "" , "description" : "From their site: This Web service returns a detailed weather report of current conditions for any given city in the world. Simply enter a city name and instantly receive the city, state, country, todayÂ’s weather (e.g. sun rise, sun set, humidity, pressure, wind, etc.). Data is provided by the National Weather Service, a division of NOAA." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.strikeiron.com/StrikeIronServicesList.aspx" , "downloadUrl" : "" , "dateModified" : "2006-10-15T08:25:33Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innergears-weather-by-city/comments" , "Tags" : [ "deadpool" , "weather"] , "category" : "Weather" , "protocols" : "SOAP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "http://ws.strikeiron.com/InnerGears/WeatherByCity2?WSDL" , "data Format" : "" , "apigroups" : "" , "example" : [ "deadpool" , "weather"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://strikeiron.com/" , "managedBy" : "StrikeIron" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = email
+tag = fax
+tag = FTP
+tag = to
+example = email
+example = fax
+example = FTP
+example = to
+{ "id" : "http://www.programmableweb.com/api/innoport-fax" , "title" : "Innoport FAX" , "summary" : "Fax services" , "rating" : "5.0" , "name" : "Innoport FAX" , "label" : "Innoport FAX" , "author" : "" , "description" : "The Innoport FAX API lets developers send out faxes from their mission critical applications. Applications can be in ASP, JSP, Cold Fusion, C/C++, Java, VB, .NET, C#, PHP or any other language that can make HTTPS calls.   NOTE: No public documentation is available. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.innoport.com/fax/fax_APIs/" , "downloadUrl" : "" , "dateModified" : "2009-10-21T06:04:26Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innoport-fax/comments" , "Tags" : [ "email" , "fax" , "FTP" , "to"] , "category" : "Fax" , "protocols" : "HTTPS POST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "email" , "fax" , "FTP" , "to"] , "clientInstall" : "No" , "authentication" : "" , "ssl" : "Yes" , "readonly" : "No" , "VendorApiKits" : "Send request to sales@innoport.com" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "support@innoport.com" , "accountReq" : "Yes" , "commercial" : "Yes, with agreement." , "provider" : "http://www.innoport.com" , "managedBy" : "" , "nonCommercial" : "No" , "dataLicensing" : "None" , "fees" : "Varies by plan, volume discounts available" , "limits" : "None" , "terms" : "None" , "company" : "https://www.innoport.com/terms_of_service.asp" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = enterprise
+tag = project-management
+example = enterprise
+example = project-management
+{ "id" : "http://www.programmableweb.com/api/innotas" , "title" : "Innotas" , "summary" : "Project portfolio management services" , "rating" : "5.0" , "name" : "Innotas" , "label" : "Innotas" , "author" : "" , "description" : "From their site: With projects and resources as the core data elements in Project Portfolio Management (PPM), it is often necessary to integrate PPM with other applications to fully automate and manage a business process. As a customer of Innotas, you can take advantage of the Innotas API to create integrations. Web Services are included for the following entities: Program, Project, Resource, User, Account, Contact, Task, Timesheet, Request, and Issue." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.innotas.com/services-implementation" , "downloadUrl" : "" , "dateModified" : "2008-04-28T01:57:55Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innotas/comments" , "Tags" : [ "enterprise" , "project-management"] , "category" : "Project Management" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "enterprise" , "project-management"] , "clientInstall" : "No" , "authentication" : "Username and password" , "ssl" : "Yes" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://innotas.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = calls
+tag = telephony
+tag = VoIP
+example = calls
+example = telephony
+example = VoIP
+{ "id" : "http://www.programmableweb.com/api/innovaphone-pbx" , "title" : "innovaphone PBX" , "summary" : "Hosted VoIP telephony service" , "rating" : "5.0" , "name" : "innovaphone PBX" , "label" : "innovaphone PBX" , "author" : "" , "description" : "The service provides a hosted platform for voice-over-IP (VoIP) telephone communications. It interacts with network hardware like private branch exchange (PBX) devices to route telephony traffic using inexpensive internet protocol connections while preserving call quality and flexible, scalable configurations.   API methods support designation of calling groups and devices within a network along with device configuration and routing of calls. Methods manage descriptive information such as recipient description, calling number, time of call, etc. Methods also support designation of availability to receive calls, reasons for unavailability, and handling of voice mail messages." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.innovaphone.com/en/products/linux-application-plattform.html" , "downloadUrl" : "" , "dateModified" : "2012-11-21T11:05:36Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innovaphone-pbx/comments" , "Tags" : [ "calls" , "telephony" , "VoIP"] , "category" : "Telephony" , "protocols" : "SOAP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "http://www.innovaphone.com/wsdl/pbx900.wsdl" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "calls" , "telephony" , "VoIP"] , "clientInstall" : "No" , "authentication" : "HTTP Basic Authenticaiton" , "ssl" : "Yes" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.innovaphone.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = business
+tag = Consulting
+tag = enterprise
+tag = games
+example = business
+example = Consulting
+example = enterprise
+example = games
+{ "id" : "http://www.programmableweb.com/api/innovation-games" , "title" : "Innovation Games" , "summary" : "Serious games and consulting services" , "rating" : "5.0" , "name" : "Innovation Games" , "label" : "Innovation Games" , "author" : "" , "description" : "Innovation Games is a provider of games used by companies to solve business problems and encourage innovation. The company provides collaborative methods and tools for understanding their customers&amp;#039; and markets needs. Innovation Games also offers and online real-time collaboration service. An API is available that allows users to create and edit projects, create and edit game definitions until they have been played, retrieve the results of parties and galas after the game has been played. The RESTful API requires a key which can be retrieved by registered users. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://innovationgames.com/content/api/information.html" , "downloadUrl" : "" , "dateModified" : "2012-08-24T10:13:21Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innovation-games/comments" , "Tags" : [ "business" , "Consulting" , "enterprise" , "games"] , "category" : "Games" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "business" , "Consulting" , "enterprise" , "games"] , "clientInstall" : "" , "authentication" : "API Key" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://innovationgames.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = catalog
+tag = library
+tag = reference
+tag = research
+example = catalog
+example = library
+example = reference
+example = research
+{ "id" : "http://www.programmableweb.com/api/innovative-interfaces-sierra" , "title" : "Innovative Interfaces: Sierra" , "summary" : "Integrated library system" , "rating" : "5.0" , "name" : "Innovative Interfaces: Sierra" , "label" : "Innovative Interfaces: Sierra" , "author" : "" , "description" : "Innovative Interface creates products to help libraries thrive in a modern technology environment. Sierra, the company&amp;#039;s latest integrated library system, combines comprehensive library systems functionality with the scale and power of modern software architecture. The product builds on the company&amp;#039;s commitment to open development, as they plan to allow developers  to take advantage of real-time statistical data with queries that create custom views to the underlying data. . One example of a potential use would be the creation and dynamic updating of reading lists using data from patron search queries." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://sierra.iii.com/" , "downloadUrl" : "" , "dateModified" : "2012-06-28T07:51:25Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innovative-interfaces-sierra/comments" , "Tags" : [ "catalog" , "library" , "reference" , "research"] , "category" : "Catalog" , "protocols" : "REST, SOAP, OAI-PMH" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "JSON, XML" , "apigroups" : "" , "example" : [ "catalog" , "library" , "reference" , "research"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://www.iii.com/news/it/it_2012_05.pdf" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.iii.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = deadpool
+tag = internet
+tag = payment
+tag = security
+example = deadpool
+example = internet
+example = payment
+example = security
+{ "id" : "http://www.programmableweb.com/api/innovative-merchant-solutions" , "title" : "Innovative Merchant Solutions" , "summary" : "Payment processing service" , "rating" : "5.0" , "name" : "Innovative Merchant Solutions" , "label" : "Innovative Merchant Solutions" , "author" : "" , "description" : "Innovative Merchant Solutions provides services to help businesses with their bankcard processing needs. The IGS Payment Service is a Web Service for processing credit card payments. It uses SOAP protocol with responses formatted in XML." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.innovativemerchant.com/support/developers/documentation.php" , "downloadUrl" : "" , "dateModified" : "2011-09-02T09:27:34Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innovative-merchant-solutions/comments" , "Tags" : [ "deadpool" , "internet" , "payment" , "security"] , "category" : "Payment" , "protocols" : "SOAP" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "https://WebServices.InnovativeGateway.com/IGSPaymentService/IGSPaymentService.asmx?wsdl" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "deadpool" , "internet" , "payment" , "security"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : ".NET, ASP" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "[[http://www.innovativemerchant.com/support/index.php Support Home]]" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.innovativemerchant.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = messaging
+tag = MMS
+tag = mobile
+tag = sms
+tag = text
+example = messaging
+example = MMS
+example = mobile
+example = sms
+example = text
+{ "id" : "http://www.programmableweb.com/api/innovativetxt" , "title" : "InnovativeTxt" , "summary" : "Global Text Messaging Service" , "rating" : "" , "name" : "InnovativeTxt" , "label" : "InnovativeTxt" , "author" : "" , "description" : "InnovativeTxt is a global text messaging service that provides a bulk messaging service for advertisers. InnovativeTxt offers a cloud-based SMS API, that works with Bulk SMS as a marketing communication channel. The API uses REST calls and allows users to send and receive high volume of messages with a high deliverability rate.  The API opens to platform for developers to build text messaging applications that can Send and Receive messages with virtual mobile number, long code and short code." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.innovativetxt.com/services/sms_api_gateway.htm" , "downloadUrl" : "" , "dateModified" : "2013-10-23T10:41:44Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/innovativetxt/comments" , "Tags" : [ "messaging" , "MMS" , "mobile" , "sms" , "text"] , "category" : "Messaging" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "messaging" , "MMS" , "mobile" , "sms" , "text"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "https://innovativetxt.zendesk.com/entries/23467622-Send-Receive-Bulk-SMS-Text-online-via-API" , "support" : "https://innovativetxt.zendesk.com/home" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.innovativetxt.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "Pay as you go; 0.029 pounds per message through most carriers. " , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = biology
+tag = medical
+tag = research
+tag = science
+example = biology
+example = medical
+example = research
+example = science
+{ "id" : "http://www.programmableweb.com/api/inoh-pathway-database" , "title" : "INOH Pathway Database" , "summary" : "Biological molecular pathway information service" , "rating" : "5.0" , "name" : "INOH Pathway Database" , "label" : "INOH Pathway Database" , "author" : "" , "description" : "The service, Integrating Network Objects with Hierarchies (INOH), provides access to a database of pathways among bio-molecules in several organisms, including humans, mice, and rats. The pathways recorded by the service define molecular connections that allow signal transduction in an organism. This information is documented largely in published articles, so the database is built by extracting knowledge from text to develop a machine-processable repository.  API methods support retrieval of graphs defining nodes and arcs (or edges) connecting them, based on selected criteria. Results delivered include the nodes involved in a particular pathway and the connections between them, distinguished by event type, including controlled events, controlling events, and others. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inoh.org/inoh_api_manual.html" , "downloadUrl" : "" , "dateModified" : "2012-06-22T06:14:55Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inoh-pathway-database/comments" , "Tags" : [ "biology" , "medical" , "research" , "science"] , "category" : "Science" , "protocols" : "REST" , "serviceEndpoint" : "http://www.inoh.org/axis2/services/InohWebService2/" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "biology" , "medical" , "research" , "science"] , "clientInstall" : "No" , "authentication" : "Public" , "ssl" : "No" , "readonly" : "Yes" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "No" , "commercial" : "" , "provider" : "http://www.inoh.org/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "Free" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = contacts
+tag = Data
+tag = database
+tag = education
+example = contacts
+example = Data
+example = database
+example = education
+{ "id" : "http://www.programmableweb.com/api/inome-exchange" , "title" : "inome exchange" , "summary" : "Information genome platform" , "rating" : "4.8" , "name" : "inome exchange" , "label" : "inome exchange" , "author" : "" , "description" : "Inome is a platform that looks to make information person-centric. Their INXSearch binds a users to a corresponding profile in inome and returns enriched user information. Developers can use the API to create applications built on information genomes that help people connect with each other, control their publicly available information, and make informed decisions. The API uses RESTful calls and responses are formatted in XML and JSON." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://developer.inome.com" , "downloadUrl" : "" , "dateModified" : "2012-11-21T11:56:37Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inome-exchange/comments" , "Tags" : [ "contacts" , "Data" , "database" , "education"] , "category" : "Database" , "protocols" : "REST" , "serviceEndpoint" : "http://api.inome.com/inx/1.0/" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON" , "apigroups" : "" , "example" : [ "contacts" , "Data" , "database" , "education"] , "clientInstall" : "" , "authentication" : "API Key" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.inome.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = bitcoin
+tag = currency
+tag = exchange
+tag = financial
+tag = trading
+tag = wallet
+example = bitcoin
+example = currency
+example = exchange
+example = financial
+example = trading
+example = wallet
+{ "id" : "http://www.programmableweb.com/api/inputs.io" , "title" : "Inputs.io" , "summary" : "BItcoin Wallet Service" , "rating" : "5.0" , "name" : "Inputs.io" , "label" : "Inputs.io" , "author" : "" , "description" : "Inputs.io is a secure payment service that allows users to store use Bitcoins for payment. The service uses two factor authentication for security and is designed to enable users to get a wallet and start utilizing it with speed and ease. The Inputs.io API uses REST calls, returns JSON, and allows users to get balances, get last transactions, send transactions, get transaction details, sign and verify messages, and generate/redeem vouchers. An account is required with service. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://inputs.io/api" , "downloadUrl" : "" , "dateModified" : "2013-07-31T05:05:26Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inputs.io/comments" , "Tags" : [ "bitcoin" , "currency" , "exchange" , "financial" , "trading" , "wallet"] , "category" : "Financial" , "protocols" : "REST" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "JSON" , "apigroups" : "" , "example" : [ "bitcoin" , "currency" , "exchange" , "financial" , "trading" , "wallet"] , "clientInstall" : "" , "authentication" : "HTTP Basic Authentication over SSL" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.inputs.io" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = mapping
+tag = traffic
+tag = transportation
+example = mapping
+example = traffic
+example = transportation
+{ "id" : "http://www.programmableweb.com/api/inrix" , "title" : "INRIX" , "summary" : "Transportation traffic and route optimization service" , "rating" : "5.0" , "name" : "INRIX" , "label" : "INRIX" , "author" : "" , "description" : "The service provides traffic information for locations in the U.S. and Europe, with algorithms for route selection and optimization. It integrates mapping of road systems with congestion reports to estimate travel times and suggest the quickest routes.  API methods allow retrieval of map-based traffic information for a specified location and destination, using a continuously updated database of traffic conditions. Methods support web-based and mobile applications. Full documentation is not publicly available." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inrix.com/devzone.asp" , "downloadUrl" : "" , "dateModified" : "2012-04-11T06:09:56Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inrix/comments" , "Tags" : [ "mapping" , "traffic" , "transportation"] , "category" : "Transportation" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "mapping" , "traffic" , "transportation"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.inrix.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = Data
+tag = engagement
+tag = intelligence
+tag = mobile
+tag = personalization
+tag = utility
+example = Data
+example = engagement
+example = intelligence
+example = mobile
+example = personalization
+example = utility
+{ "id" : "http://www.programmableweb.com/api/inset-personalization" , "title" : "Inset Personalization" , "summary" : "Build Smarter Mobile Apps" , "rating" : "5.0" , "name" : "Inset Personalization" , "label" : "Inset Personalization" , "author" : "" , "description" : "InsetLabs allows mobile app developers to gain insights not just about their own app but also about each user&amp;#039;s behavior outside the app. Our SDK uses device sensors and other usage points to profile each user&amp;#039;s activities, interests and behavior and offers a contextually relevant experience in real-time.   Our goal is to build smarter apps to engage users with right content at the right moment. Imagine re-engaging a user to a game by sending an appropriate push notification just as the user is sitting down for a daily coffe break at the local Starbucks!  http://www.insetlabs.com/admins/sign_up " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.insetlabs.com" , "downloadUrl" : "" , "dateModified" : "2013-06-29T04:45:08Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inset-personalization/comments" , "Tags" : [ "Data" , "engagement" , "intelligence" , "mobile" , "personalization" , "utility"] , "category" : "Utility" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "json" , "apigroups" : "" , "example" : [ "Data" , "engagement" , "intelligence" , "mobile" , "personalization" , "utility"] , "clientInstall" : "" , "authentication" : "oAuth" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.insetlabs.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = education
+tag = jobs
+example = education
+example = jobs
+{ "id" : "http://www.programmableweb.com/api/inside-higher-ed" , "title" : "Inside Higher Ed" , "summary" : "Higher education job listing" , "rating" : "5.0" , "name" : "Inside Higher Ed" , "label" : "Inside Higher Ed" , "author" : "" , "description" : "Inside Higher Ed is an online news, opinion and job listing provider for all of higher education. The Inside Higher Ed Job Posting API allows contracted job providers to automate posting job listings. Users may access the API as either a REST call or a SOAP web service. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://api2.insidehighered.com:8080/api/docs/" , "downloadUrl" : "" , "dateModified" : "2012-12-17T10:23:36Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inside-higher-ed/comments" , "Tags" : [ "education" , "jobs"] , "category" : "Education" , "protocols" : "REST, SOAP" , "serviceEndpoint" : "http://careers.insidehighered.com/api/" , "version" : "" , "wsdl" : "" , "data Format" : "XML" , "apigroups" : "" , "example" : [ "education" , "jobs"] , "clientInstall" : "" , "authentication" : "API Key" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "" , "commercial" : "" , "provider" : "http://www.insidehighered.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = gis
+tag = government
+tag = Idaho
+tag = mapping
+example = gis
+example = government
+example = Idaho
+example = mapping
+{ "id" : "http://www.programmableweb.com/api/inside-idaho" , "title" : "Inside Idaho" , "summary" : "State geospatial information service" , "rating" : "5.0" , "name" : "Inside Idaho" , "label" : "Inside Idaho" , "author" : "" , "description" : "The service delivers geospatial data to support mapping of resources within the state of Idaho. Compliant with Open Geospatial Consortium (OGC) standards, the platform uses ArcGIS and other resources to promote sharing of data, effective communication, and activity coordination among state agencies and other government units. Applications can use the service to map biological and environmental features, climatology, structures, and other featurs of the state.  API methods support mapping of animal and plant species, elevation and other geological features, and climatic conditions. Applications can also map jurisdictional boundaries, transportation resources, structures, and other prominent infrastructure within Idaho " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://insideidaho.org/webservices.html" , "downloadUrl" : "" , "dateModified" : "2012-01-10T11:41:43Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inside-idaho/comments" , "Tags" : [ "gis" , "government" , "Idaho" , "mapping"] , "category" : "Mapping" , "protocols" : "REST, SOAP" , "serviceEndpoint" : "http://cloud.insideidaho.org/arcgis/services" , "version" : "" , "wsdl" : "" , "data Format" : "XML, KML" , "apigroups" : "" , "example" : [ "gis" , "government" , "Idaho" , "mapping"] , "clientInstall" : "No" , "authentication" : "Public" , "ssl" : "No" , "readonly" : "Yes" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://insideidaho.org/ArcGIS/rest/services" , "accountReq" : "No" , "commercial" : "Yes" , "provider" : "http://insideidaho.org/index.html" , "managedBy" : "" , "nonCommercial" : "No" , "dataLicensing" : "Public Domain" , "fees" : "Free" , "limits" : "" , "terms" : "" , "company" : "http://insideidaho.org/disclaimer.html" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = enterprise
+tag = marketing
+tag = sales
+example = enterprise
+example = marketing
+example = sales
+{ "id" : "http://www.programmableweb.com/api/insidesales" , "title" : "InsideSales " , "summary" : "Sales and marketing tools" , "rating" : "5.0" , "name" : "InsideSales " , "label" : "InsideSales " , "author" : "" , "description" : "Insidesales.com is a provider of response management solutions for sales and marketing including a telephony suite of tools including voice messaging, auto dialing, and lead response. The InsideSales API provides additional tools, and nearly any data function available in the system can be duplicated through an API command." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.insidesales.com/developers" , "downloadUrl" : "" , "dateModified" : "2011-09-06T05:59:29Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/insidesales/comments" , "Tags" : [ "enterprise" , "marketing" , "sales"] , "category" : "Enterprise" , "protocols" : "SOAP, REST " , "serviceEndpoint" : "https://{subdomain}.insidesales.com/do=noauth/rest/service" , "version" : "" , "wsdl" : "" , "data Format" : "XML, JSON" , "apigroups" : "" , "example" : [ "enterprise" , "marketing" , "sales"] , "clientInstall" : "" , "authentication" : "Security Token" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "vhttp://www.insidesales.com/contact_us" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://insidesales.com" , "managedBy" : "" , "nonCommercial" : "[[http://www.insidesales.com/secure/free_trial.php FREE TRIAL]]" , "dataLicensing" : "" , "fees" : "Available with all accounts, http://www.insidesales.com/pricing.php" , "limits" : "Webservice calls are typically limited by an hourly throttle" , "terms" : "Webservice calls are typically limited by an hourly throttle" , "company" : "[[http://www.insidesales.com/# API Terms of Use.]]" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = contacts
+tag = CRM
+tag = emails
+tag = enterprise
+tag = pm
+tag = project-management
+example = contacts
+example = CRM
+example = emails
+example = enterprise
+example = pm
+example = project-management
+{ "id" : "http://www.programmableweb.com/api/insightly" , "title" : "Insightly" , "summary" : "CRM and project management platform" , "rating" : "" , "name" : "Insightly" , "label" : "Insightly" , "author" : "" , "description" : "Insightly is a client relationship management (CRM) and project management platform. Insightly allows businesses to customize and utilize various CRM and project management features, such as contact information, various dashboards, and social media integration.  The Insightly API allows developers to access and integrate the functionality of Insightly with other applications. Some example API methods include retrieving and managing emails, managing contacts and contact details, and managing attachments and files. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "https://api.insight.ly/v2/Help" , "downloadUrl" : "" , "dateModified" : "2013-09-25T05:06:22Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/insightly/comments" , "Tags" : [ "contacts" , "CRM" , "emails" , "enterprise" , "pm" , "project-management"] , "category" : "Enterprise" , "protocols" : "REST" , "serviceEndpoint" : "https://api.insight.ly/v2" , "version" : "" , "wsdl" : "" , "data Format" : "JSON, XML" , "apigroups" : "" , "example" : [ "contacts" , "CRM" , "emails" , "enterprise" , "pm" , "project-management"] , "clientInstall" : "No" , "authentication" : "HTTP Basic Auth, API Key" , "ssl" : "Yes" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.insightly.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "Requests that return over 10,000 records will exclude child objects such as addresses, phone numbers, and links" , "terms" : "Requests that return over 10,000 records will exclude child objects such as addresses, phone numbers, and links" , "company" : "http://www.insightly.com/Terms" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = location
+tag = mapping
+tag = mobile
+tag = tracking
+example = location
+example = mapping
+example = mobile
+example = tracking
+{ "id" : "http://www.programmableweb.com/api/insiteo-suite" , "title" : "Insiteo Suite" , "summary" : "Indoor Location Mapping Service" , "rating" : "5.0" , "name" : "Insiteo Suite" , "label" : "Insiteo Suite" , "author" : "" , "description" : "Insiteo is an indoor location mapping service that can be integrated with mobile applications and data collection services and aims to increase site profitability, data intelligence, customer experience and satisfaction levels. The Insiteo Suite of APIs is comprised of six APIs which can be used independently or together to create indoor mapping applications. The suite includes the indoor location, interactive mapping, pathfinding and navigation, geofencing, meet me, and lone worker protection API. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.insiteo.com/joomla/index.php/en/products/93-insiteo/products/98-meetme-api" , "downloadUrl" : "" , "dateModified" : "2012-10-05T04:24:34Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/insiteo-suite/comments" , "Tags" : [ "location" , "mapping" , "mobile" , "tracking"] , "category" : "Mapping" , "protocols" : "" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "" , "apigroups" : "" , "example" : [ "location" , "mapping" , "mobile" , "tracking"] , "clientInstall" : "" , "authentication" : "" , "ssl" : "" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "http://www.insiteo.com/joomla/index.php/en/corporate/contacts-en" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.insiteo.com" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = enterprise
+example = enterprise
+{ "id" : "http://www.programmableweb.com/api/inspection-support-network" , "title" : "Inspection Support Network" , "summary" : "Property inspector business management platform" , "rating" : "5.0" , "name" : "Inspection Support Network" , "label" : "Inspection Support Network" , "author" : "" , "description" : "The Inspection Support Network is a business management platform focused on commercial and residential property inspectors. The Inspection Support Network has made their API available in both SOAP and REST systems." , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://www.inspectionsupport.net/2009/10/our-api/" , "downloadUrl" : "" , "dateModified" : "2012-08-31T09:59:44Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/inspection-support-network/comments" , "Tags" : [ "enterprise"] , "category" : "Enterprise" , "protocols" : "REST, SOAP" , "serviceEndpoint" : " http://inspectionsupport.net/" , "version" : "" , "wsdl" : "" , "data Format" : "JSON, XML" , "apigroups" : "" , "example" : [ "enterprise"] , "clientInstall" : "" , "authentication" : "API Key" , "ssl" : "Yes" , "readonly" : "" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://www.inspectionsupport.net/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+yes
+tag = bug
+tag = error
+tag = mobile
+tag = tools
+tag = tracking
+tag = utility
+example = bug
+example = error
+example = mobile
+example = tools
+example = tracking
+example = utility
+{ "id" : "http://www.programmableweb.com/api/instabug" , "title" : "InstaBug" , "summary" : "Mobile application bug tracking tool" , "rating" : "5.0" , "name" : "InstaBug" , "label" : "InstaBug" , "author" : "" , "description" : "InstaBug is a bug tracking and reporting tool for mobile applications. Application owners and publishers can use InstaBug in their mobile applications to get alerts about bugs in their applications, get bug information on a dashboard, and install instant feedback forms on their applications.  The InstaBug SDK and API allows developers to access and integrate the functionality of InstaBug with their mobile applications. Some example API methods include retrieving bug reports, managing account information, and retrieving user feedback. " , "type" : "1" , "downloads" : "" , "useCount" : "" , "sampleUrl" : "http://instabug.com/sdk_integration" , "downloadUrl" : "" , "dateModified" : "2013-09-25T05:00:50Z" , "remoteFeed" : "" , "numComments" : "" , "commentsUrl" : "http://api.programmableweb.com/apis/instabug/comments" , "Tags" : [ "bug" , "error" , "mobile" , "tools" , "tracking" , "utility"] , "category" : "Tools" , "protocols" : "REST, Javascript" , "serviceEndpoint" : "" , "version" : "" , "wsdl" : "" , "data Format" : "JSON" , "apigroups" : "" , "example" : [ "bug" , "error" , "mobile" , "tools" , "tracking" , "utility"] , "clientInstall" : "No" , "authentication" : "API Token" , "ssl" : "No" , "readonly" : "No" , "VendorApiKits" : "" , "CommunityApiKits" : "" , "blog" : "" , "forum" : "" , "support" : "" , "accountReq" : "Yes" , "commercial" : "" , "provider" : "http://instabug.com/" , "managedBy" : "" , "nonCommercial" : "" , "dataLicensing" : "" , "fees" : "" , "limits" : "" , "terms" : "" , "company" : "" , "updated" : ""}
+Connect to database successfully
+Collection created successfully
+
+Thinking Critically:  The Complexity of Modern Medicine
+
+{ Tags: { $in: [ "database" ] } }
+
+
+([{$project: {id: 1,date: 1,month: {$month: '$date'}}},{$match: {month: 11}},{$project: { id: 1, date: 1}}])
+
+db.apis.aggregate({$project: {name: 1, month: {$month: '$updated'}}},{$match:{ month: 9}});
+
+db.apis.aggregate({$project: {name: 1, year: {$year: '$updated'}}},{$match:{ year: 2012}});
+
+db.apis.aggregate({$project: {name: 1, id:2, year: {$year: '$updated'}}},{$match:{ year: 2012}});
+
+db.apis.aggregate({$project: {name: 1, id:2, year: {$year: '$updated'}}},{$match:{ year: 2012}});
+
+db.apis.aggregate( {name: 1, id:2, year: {$year: '$updated'}},{$match:{ year: 2012}});
+
+db.apis.aggregate([ { $match: { rating: { $lt: 5 } } } ],{ readConcern: { level: "majority" } })
+
+db.apis.aggregate([{$project: {name: 1, id:2, year: {$year: '$updated'}}},{$match:{ year: 2012}}]);
